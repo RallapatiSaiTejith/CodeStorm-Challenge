@@ -1,5 +1,4 @@
-# ⚡ CodeStorm Challenge – 30 Coding Problems + Video Explanations
-
+# ⚡ CodeStorm Challenge – 30 Coding Problems
 ## 📌 Overview
 The **CodeStorm Challenge** is an intense programming competition designed to evaluate your coding skills, problem-solving strategies, and ability to clearly communicate technical solutions.
 
